@@ -1,0 +1,11 @@
+#Day24:Article
+##04/03/2022
+ 
+     Its my 24th day of internship i learned about server,server is a computer program or device that provides a service to another program and its 
+user,also known as client.In the data center,the physical computer that a server program runs on is also frequently reffered to as server and learned
+about http requests get,which is used to request data from the server,used to read data.post,which is used to submit data,typically used to create new
+entities or edit already existing entities.put,used to completely replace the resource with the submitted resource,typically update the data.delete,is
+used to delete an entity from the server and then i worked on the api server and after that we were called for the session.We recalled about last weeks topics we recalled about language,symbols,tokens and expressions and in programming language about variables,functions and arrays and learned about compiler,which is nothing but the combination of lexical analysis,syntatical analysis,sematic analysis.compiler compiles the instructions given by thehuman into machine understandable language ,When we search for something in the internet ,our search query is validated by compiler at first the
+symbols are analysed which is the lexical analysis and likewise the syntactical and symaical analysis occur,If any of these steps fail then it is     called as the compile time error after the compilation process there is a another step called the code generation.Where the code is converted into themachine level language,Which is 0s and 1s.Because the computers can understand only 01.What ever we code finally it is made in to 0s and 1s
+we learned about assembly level language.It is nothing but the combination of the both 01 and the arithmetics like the add,sub,mul.div,move etc.In theearly stage only used for mathematical oprations after that the assembly level language was created,before assembly language computers are programmed in machine language.After that it is developed and now we type the code in human understandable language and we use the compilers to compile the language from human level to the machine level and then after session i learned about servers and thats how the day went
+ 
